@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="48dp"
+        android:text="接收"
+        android:textFontWeight="50"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_menu" />
+
+    <ImageButton
+        android:id="@+id/ibt_yxrs"
+        android:layout_width="198dp"
+        android:layout_height="142dp"
+        android:layout_marginTop="40dp"
+        android:background="#416B6868"
+        android:onClick="yuxiangrousi"
+        android:src="@mipmap/fish_flavored_shredded_pork"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/ibt_gbjd"
+        android:layout_width="191dp"
+        android:layout_height="141dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:background="#416B6868"
+        android:onClick="gongbaojiding"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/ibt_yxrs"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@mipmap/palace_burst_chicken" />
+
+    <ImageButton
+        android:id="@+id/ibt_xcr"
+        android:layout_width="198dp"
+        android:layout_height="143dp"
+        android:background="#416B6868"
+        android:onClick="xiaochaorou"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ibt_yxrs"
+        app:srcCompat="@mipmap/fried_meat" />
+
+    <ImageButton
+        android:id="@+id/ibt_jjrs"
+        android:layout_width="192dp"
+        android:layout_height="144dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginRight="12dp"
+        android:background="#416B6868"
+        android:onClick="jianjiaorousi"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/ibt_xcr"
+        app:layout_constraintTop_toBottomOf="@+id/ibt_gbjd"
+        app:srcCompat="@mipmap/hot_peppers_fried_meat" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:onClick="take_menu"
+        android:text="下单"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_menu" />
+
+    <TextView
+        android:id="@+id/tv_menu"
+        android:layout_width="339dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:background="#416B6868"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+    <TextView
+        android:id="@+id/tv_rx"
+        android:layout_width="338dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:background="#416B6868"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView10" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="20dp"
+        android:text="发送"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ibt_xcr" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

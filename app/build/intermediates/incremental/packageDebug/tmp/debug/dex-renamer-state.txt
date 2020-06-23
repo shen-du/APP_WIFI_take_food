@@ -1,0 +1,4 @@
+#Mon Apr 20 10:27:11 GMT+08:00 2020
+base.0=E\:\\working_project\\APP\\take_food\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
