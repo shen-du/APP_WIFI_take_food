@@ -1,167 +1,15 @@
 [
     {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\2f93e882e947d9becf72b03450ed2960\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
         "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\2f93e882e947d9becf72b03450ed2960\\core-1.1.0\\res\\layout-v16\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\2f93e882e947d9becf72b03450ed2960\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_cascading_menu_item_layout.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "E:\\working_project\\APP\\take_food\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "E:\\working_project\\APP\\take_food\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_dialog.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\2f93e882e947d9becf72b03450ed2960\\core-1.1.0\\res\\layout\\custom_dialog.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "E:\\working_project\\APP\\take_food\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "E:\\working_project\\APP\\take_food\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_palace_burst_chicken.png.flat",
-        "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-xhdpi\\palace_burst_chicken.png"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\2f93e882e947d9becf72b03450ed2960\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_hot_peppers_fried_meat.png.flat",
-        "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-xhdpi\\hot_peppers_fried_meat.png"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
         "source": "E:\\working_project\\APP\\take_food\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
         "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\2f93e882e947d9becf72b03450ed2960\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_fried_meat.png.flat",
@@ -172,64 +20,40 @@
         "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_alert_dialog_title_material.xml"
+        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\working_project\\APP\\take_food\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\2f93e882e947d9becf72b03450ed2960\\core-1.1.0\\res\\layout\\notification_action.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\2f93e882e947d9becf72b03450ed2960\\core-1.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\2f93e882e947d9becf72b03450ed2960\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout-v26\\abc_screen_toolbar.xml"
+        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_fish_flavored_shredded_pork.png.flat",
         "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-xhdpi\\fish_flavored_shredded_pork.png"
     },
     {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\2f93e882e947d9becf72b03450ed2960\\core-1.1.0\\res\\layout\\notification_template_custom_big.xml"
+        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "E:\\working_project\\APP\\take_food\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
         "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\working_project\\APP\\take_food\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
         "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_take_food.xml.flat",
@@ -240,24 +64,16 @@
         "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "E:\\working_project\\APP\\take_food\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\2f93e882e947d9becf72b03450ed2960\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\working_project\\APP\\take_food\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_tooltip.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\working_project\\APP\\take_food\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -272,23 +88,19 @@
         "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
         "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_palace_burst_chicken.png.flat",
+        "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-xhdpi\\palace_burst_chicken.png"
     },
     {
         "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\2f93e882e947d9becf72b03450ed2960\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
-        "source": "D:\\compiler\\Android\\.gradle\\caches\\transforms-2\\files-2.1\\d1f6eb2a449768f3fd610efa101bb796\\appcompat-1.1.0\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "E:\\working_project\\APP\\take_food\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_hot_peppers_fried_meat.png.flat",
+        "source": "E:\\working_project\\APP\\take_food\\app\\src\\main\\res\\mipmap-xhdpi\\hot_peppers_fried_meat.png"
     }
 ]
