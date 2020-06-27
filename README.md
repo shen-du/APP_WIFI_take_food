@@ -10,12 +10,12 @@
 
 互联网云平台：
 
-  阿里云：https://iot.console.aliyun.com/lk/summary 
-  产品：智慧农业大棚 
-  设备：APP_lot
+	阿里云：https://iot.console.aliyun.com/lk/summary 
+	产品：智慧农业大棚 
+	设备：APP_lot
 
 深度团队：
 
-  QQ：740342193 
-  电话：18406586790 
-  网站：https://shen-du.herokuapp.com/
+	QQ：740342193 
+	电话：18406586790 
+	网站：https://shen-du.herokuapp.com/
