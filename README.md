@@ -1,4 +1,4 @@
-# APP_wifi_take_food
+# APP_WIFI_take_food
 
 项目题目: 订餐取餐系统
 
@@ -17,7 +17,5 @@
 深度团队：
 
   QQ：740342193 
-  
   电话：18406586790 
-  
   网站：https://shen-du.herokuapp.com/
