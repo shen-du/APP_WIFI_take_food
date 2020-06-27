@@ -5,7 +5,9 @@
 项目描述：基于4G，互联网通信，阿里云
 
 配套STM32下位机：https://github.com/shen-du/STM32_WIFI_take_food
+
 配套matlab上位机：https://github.com/shen-du/MATLAB_GUI_take_food
+
 编译环境：Android Studio4.0
 
 互联网云平台：https://iot.console.aliyun.com/lk/summary 
